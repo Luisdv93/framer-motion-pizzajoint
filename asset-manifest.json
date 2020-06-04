@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/framer-motion-pizzajoint/static/css/main.f8a366a4.chunk.css",
+    "main.js": "/framer-motion-pizzajoint/static/js/main.053d8123.chunk.js",
+    "main.js.map": "/framer-motion-pizzajoint/static/js/main.053d8123.chunk.js.map",
+    "runtime-main.js": "/framer-motion-pizzajoint/static/js/runtime-main.c697d697.js",
+    "runtime-main.js.map": "/framer-motion-pizzajoint/static/js/runtime-main.c697d697.js.map",
+    "static/js/2.6f95a39c.chunk.js": "/framer-motion-pizzajoint/static/js/2.6f95a39c.chunk.js",
+    "static/js/2.6f95a39c.chunk.js.map": "/framer-motion-pizzajoint/static/js/2.6f95a39c.chunk.js.map",
+    "index.html": "/framer-motion-pizzajoint/index.html",
+    "precache-manifest.f8d5e242f11e1fbf2bf10eee25f86305.js": "/framer-motion-pizzajoint/precache-manifest.f8d5e242f11e1fbf2bf10eee25f86305.js",
+    "service-worker.js": "/framer-motion-pizzajoint/service-worker.js",
+    "static/css/main.f8a366a4.chunk.css.map": "/framer-motion-pizzajoint/static/css/main.f8a366a4.chunk.css.map",
+    "static/js/2.6f95a39c.chunk.js.LICENSE.txt": "/framer-motion-pizzajoint/static/js/2.6f95a39c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c697d697.js",
+    "static/js/2.6f95a39c.chunk.js",
+    "static/css/main.f8a366a4.chunk.css",
+    "static/js/main.053d8123.chunk.js"
+  ]
+}
