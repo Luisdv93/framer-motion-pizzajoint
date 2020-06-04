@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6328c978812f9eace28c05eaa85a6df7",
+    "revision": "8ff32d378ea240d60a58811b118cf01c",
     "url": "/framer-motion-pizzajoint/index.html"
   },
   {
