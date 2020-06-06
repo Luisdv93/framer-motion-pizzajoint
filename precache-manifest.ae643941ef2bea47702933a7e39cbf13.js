@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ff32d378ea240d60a58811b118cf01c",
+    "revision": "0e15182175e24036b714915584bb2c9c",
     "url": "/framer-motion-pizzajoint/index.html"
   },
   {
-    "revision": "fe389cb483b9281cba7c",
+    "revision": "6f82ef8a108325fce850",
     "url": "/framer-motion-pizzajoint/static/css/main.f8a366a4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/framer-motion-pizzajoint/static/js/2.6f95a39c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe389cb483b9281cba7c",
-    "url": "/framer-motion-pizzajoint/static/js/main.053d8123.chunk.js"
+    "revision": "6f82ef8a108325fce850",
+    "url": "/framer-motion-pizzajoint/static/js/main.940e415d.chunk.js"
   },
   {
     "revision": "e19e5eaf318eea900163",
